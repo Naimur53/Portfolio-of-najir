@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
+#maindiv{
+	font-family:Yusei Magic!important;
+}
+.menu-main-div{
+
+}
+.menu-div{
+	margin-right:173px;
+}
+.menu-div ul {
+	float:right;
+}
+.menu-div ul li{
+  list-style-type:none;
+  float:left;
+  padding:0px 11px;	
+}
+.menu-div ul li a{
+    font-size: 16px;
+    color: #3c3c3c;
+    text-decoration: none;
+	font-family:"Roboto", sans-serif;	
+}
+.introdiv{
+	padding-left:100px;
+	padding-bottom:100px;
+	padding-right:100px;
+	display:block;
+}
+.intro-heading{
+	width:50%;
+	 
+	float:left;
+}
+.intro-heading h1{
+	 color:#363958;
+	font-family:Yusei Magic!important;
+	 text-transform:uppercase;
+	 font-size:50px;
+	 margin-top:50px;
+	 font-family:Bebas Neue;	
+}
+.intro-heading p{
+	 color:#363958;
+	   font-family:Yusei Magic!important;
+}
+.intro-heading h1 span{
+	 color:#ff8367;
+}
+.intro-img img{
+	width:70%;
+ 
+	 float:right;
+}
+.intro-img{
+	width:50%;
+	float:left;
+}
+.hire{
+	color:#fff;
+	background-color:#ff8367;
+	font-size:16px;
+	line-height:24px;
+	padding:10px 20px;
+	text-decoration:none;
+	border-radius:5px;
+	float:left;	 
+}
+.main-about{
+	padding-left:100px;
+	padding-bottom:100px;
+	padding-right:100px;
+	display:block;
+}
+.pic-about{
+	width:50%;
+	float:left;
+}
+.pic-about img{
+	width:70%;
+}
+.information{
+	width:50%;
+	float:left;	
+}
+.information h1{
+	text-transform:uppercase;
+	 color:#363958;
+	font-family:Yusei Magic!important;
+	 margin-bottom:25px;
+	 font-weight:bold;
+}
+.information p{
+	 font-size:18px;
+}
+.information a {
+	 text-decoration:none;
+	 color:#fff;
+	font-family:Yusei Magic!important;
+	 background-image: linear-gradient(#f46060, #ff8063);
+	 padding:17px 25px;
+	 border-radius:5px;
+}
+.information a img{
+	  margin-bottom:-8px;
+}
+.divser{
+	 width:100%;
+	 float:left;
+	 margin-left:42%;
+}
+.ser{
+	 text-transform:uppercase;
+	 color:#ff8367;
+	 font-family:Yusei Magic!important;
+	 font-size:50px;
+}
+ .threebox{
+	 width:100%;
+	 display:block;
+	 margin-left:100px;
+ }
+ .box1 img{
+	width:55px;
+    height:55px; 
+ }
+.box1{
+	float:left;
+	background-color:#ff8367;
+	width:335px;
+	height:235px;
+	text-align:center;
+	padding:30px;
+	border-radius:5px;
+	color:#fff;
+	margin-right:20px;
+}
+.box1:hover{
+	border:5px solid #ff8367;
+	background-color:#fff;
+	color:#000;
+	 transition:all .3s ease;
+	padding:25px;
+}
+.latest-div{
+	float:left;
+    padding-top:30px;
+    padding-right:50px;
+	display:block;
+}
+.latest-div h1{
+	color:#ff8367;
+	font-family:arial;
+	margin-bottom:60px;
+	margin-top:50px;
+	margin-left:500px;
+	margin-right:400px;
+}
+.latest-div h1 span{
+	color:#363958;
+}
+.shadowbox-maindiv{
+	float:left;
+	margin-left:100px;
+}
+.shadowbox1{
+	float:left;
+	width:365px;
+	height:370px;
+	box-shadow: 2px 2px 20px 0px #ccc;
+    padding:28px 12px 24px 12px;
+	margin-left:40px;
+	border-radius:30px;
+}
+.shadowbox1 img{
+	width:360px;
+	height:225px;
+}
+.shadowbox1 h2{
+	color:#363958;
+}
+.shadowbox1 p{
+	color:#363958;
+}
+.befor{
+	  float:left;
+	  padding-left:30px; 
+}
+.cssimg {
+	background-image:url("images/background.jpg");
+	background-size:736px 175px;
+	background-repeat:no-repeat;
+	background-position:center;
+	float:left;
+	width:1500px;
+	height:300px;
+}
+.befor h2{
+    margin-left: 435px;
+    margin-top: 130px;
+    font-size: 40px;
+    color: #fff;
+	font-family: 'Yusei Magic', sans-serif;
+	
+}
+.befor .position a{
+	margin-left:790px;
+	margin-top:-20px;
+    color:#fff;
+	background-color:#ff8367;
+	font-size:16px;
+	line-height:24px;
+	padding:10px 20px;
+	text-decoration:none;
+	border-radius:5px;
+    position:absolute;	
+    left: 165px;
+    bottom:-1450px;
+}
+
+.lastdiv{
+	float:left;
+}
+.lastdiv h5{
+	margin-left:705px;
+}
+.lastdiv h3{
+	 
+	margin-left: 665px;
+    font-size: 27px;
+}
+.lastdiv a img{
+	width:40px;
+	height:40px;
+	
+}
+
+.lastdiv .main-a{
+	 margin-left:690px;
+}
+
+
+
+
+
+
+
+
+
